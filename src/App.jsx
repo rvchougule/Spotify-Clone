@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import Display from "./components/Display";
-import Player from "./components/player";
+import Player from "./components/Player";
 import SideBar from "./components/SideBar";
 import { PlayerContext } from "./contexts/PlayerContext";
 
